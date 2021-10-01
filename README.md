@@ -1,7 +1,7 @@
 # xamarin-blogs-and-sources
 Xamarin/.NET MAUI related blogs and usefull coding info pages and resources.
 
-For usefull packages see: [Usefull paackages](/usefull_packages.md)
+For usefull packages see: [Usefull packages](/usefull_packages.md)
 
 
 ## Blogs
@@ -19,9 +19,6 @@ For usefull packages see: [Usefull paackages](/usefull_packages.md)
 
 ## Yearly recurring events:
 - October https://xamexpertday.com/
-
-
-
 
 
 
