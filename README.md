@@ -1,7 +1,7 @@
 # xamarin-blogs-and-sources
 Xamarin/.NET MAUI related blogs and usefull coding info pages and resources.
 
-For usefull packages see: (Usefull paackages)[https://github.com/MakeAndDevelop/xamarin-blogs-and-sources/edit/master/usefull_packages.md]
+For usefull packages see: [Usefull paackages](/usefull_packages.md)
 
 
 ## Blogs
