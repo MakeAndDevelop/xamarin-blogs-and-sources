@@ -9,7 +9,7 @@ For usefull packages see: [Usefull packages](/usefull_packages.md)
 - Mark Allibone: https://mallibone.com/
 - Gerald Versluis: https://gerald.verslu.is/
 - Javier Suarez Ruiz: https://javiersuarezruiz.wordpress.com/
-
+- Kym Phillpotts https://kymphillpotts.com/
 - Many more at: https://blog.feedspot.com/xamarin_blogs/
 - Scot Hanselman: https://www.hanselman.com/
 
