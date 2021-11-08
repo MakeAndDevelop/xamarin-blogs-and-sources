@@ -21,4 +21,5 @@ For usefull packages see: [Usefull packages](/usefull_packages.md)
 - October https://xamexpertday.com/
 
 
-
+## Help
+https://www.xamarinhelp.com/xamarin-android-aot-works/
